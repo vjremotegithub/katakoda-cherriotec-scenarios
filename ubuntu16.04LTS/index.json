@@ -33,5 +33,5 @@
   },
   
   "assets": { 
-     "client": [{"file": "1.py", "target": "/", "chmod": "+x"}] }
+     "host01": [{"file": "1.py", "target": "/", "chmod": "+x"}] }
 }
