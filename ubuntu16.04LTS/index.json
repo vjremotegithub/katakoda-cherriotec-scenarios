@@ -30,7 +30,7 @@
   },
   "backend": {
     "imageid": "ubuntu"
-  }
+  },
   
   "assets": { 
      "client": [{"file": "1.py", "target": "/", "chmod": "+x"}] }
