@@ -23,15 +23,15 @@
     },
     "finish": {
       "text": "finish.md"
-    }
+    },
+    "assets": { 
+     "host01": [{"file": "1.py", "target": "/root", "chmod": "+x"}] }
   },
   "environment": {
     "uilayout": "editor-terminal-split"
   },
   "backend": {
     "imageid": "ubuntu"
-  },
-  
-  "assets": { 
-     "host01": [{"file": "1.py", "target": "/root", "chmod": "+x"}] }
+  }
+ 
 }
